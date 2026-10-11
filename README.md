@@ -1,78 +1,45 @@
-# 👨🏻‍💻 Lucas Nascimento Hubner
+# DevZayMoon
 
-**`Desenvolvedor FULL-STACK`**
+**Desenvolvedor Python | Automação de Processos | Linux**
 
-### 👾 Linguagens e Tecnologias
+Desenvolvedor focado em Python e na criação de soluções para automatizar tarefas, otimizar fluxos de trabalho e reduzir processos manuais.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/> -->
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-svg-download-png-2945017.png?f=webp&w=256" 
-/>
-<img 
-    align="left" 
-    alt="Arch" 
-    title="Arch"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/V1K7qrlZDlodUfbhpR1tI9T3y8-E-jQVg0uwb1G26tg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNDkyOTYv/YXJjaC1saW51eC5z/dmc" 
-/>
+Utilizo **Arch Linux** como ambiente de desenvolvimento e busco construir ferramentas práticas, eficientes e bem estruturadas para resolver problemas reais.
+
+### Áreas de atuação
+
+- **Automação de processos:** desenvolvimento de scripts e ferramentas para eliminar tarefas repetitivas.
+- **Manipulação de arquivos:** leitura, processamento, organização e renomeação automatizada de documentos PDF.
+- **Desenvolvimento Python:** orientação a objetos, organização de código e boas práticas de programação.
+- **Linux:** ambiente de desenvolvimento baseado em Arch Linux.
+- **Versionamento:** Git e GitHub para gerenciar projetos e acompanhar a evolução do código.
+
+### Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" />
+</p>
+
+### Projetos
+
+Desenvolvo ferramentas com foco em produtividade, automação e resolução de problemas do dia a dia.
+
+- **Automação de PDFs:** ferramenta em Python para ler documentos e renomeá-los com base nas informações extraídas.
+- **Ferramentas de produtividade:** projetos voltados à simplificação de tarefas e à melhoria de fluxos de trabalho.
+
+Confira meus repositórios para acompanhar meus projetos e minha evolução como desenvolvedor.
+
+### Onde me encontrar
+
+<p align="left">
+  <a href="https://www.tiktok.com/@devzaymoon">
+    <img src="https://img.shields.io/badge/TikTok-DevZayMoon-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok DevZayMoon" />
+  </a>
+</p>
+
+---
+
+*Automatize o repetitivo. Construa o que importa.*
